@@ -13,10 +13,10 @@ background: linear-gradient(to bottom right, #24d06c, #0fd1a7);
     border-radius: 10px;
 }
 
-#doge-meme-pic {
+#Porsche-pic {
 cursor: grab;
 }
-#doge-meme-pic:active {
+#Porsche-pic:active {
 cursor: grabbing;
 }
 .score-box {
